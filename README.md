@@ -8,7 +8,7 @@
 ```bash
 cd backend
 npm install
-cp .env.example .env   
+cp .env   
 npm run dev            # http://localhost:5000
 ```
 
