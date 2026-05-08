@@ -8,7 +8,7 @@
 ```bash
 cd backend
 npm install
-cp .env.example .env   # Edit MONGO_URI if needed
+cp .env.example .env   
 npm run dev            # http://localhost:5000
 ```
 
